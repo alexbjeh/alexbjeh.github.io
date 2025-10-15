@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Alex Ramkissoon"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-​​Alex Ramkissoon​  
+  
 
 ​​lucaslexk@gmail.com​  •  443-273-6751 • alexramkissoon@student.hcps.org​​ 
 
