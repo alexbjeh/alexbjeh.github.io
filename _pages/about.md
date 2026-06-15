@@ -88,7 +88,7 @@ Managing Children, Schedules, Leadership and Cooperative work with peers.
 
 [Personal Website Link](https://github.com/alexbjeh/website)
 
-[APG Project Link]([https://github.com/alexbjeh/website](https://v0-dashboard-ui-design-3rbrxlwb2-lucaslexk-7651s-projects.vercel.app/))
+[APG Project Link](https://v0-dashboard-ui-design-bay-five.vercel.app/)
 
 [Budget Tracker Website Link](https://v0-budget-tracker-website-6rlot6rne-lucaslexk-7651s-projects.vercel.app/)
 
